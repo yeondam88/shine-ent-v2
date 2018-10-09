@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./App.scss";
+import "./argon.min.css";
 
 import Home from "./components/Home";
 
